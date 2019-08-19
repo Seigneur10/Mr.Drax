@@ -1,0 +1,15 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "description": "BOT DE LA SVA",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "DAAZEU",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^11.5.0"
+  },
+  "devDependencies": {}
+}
